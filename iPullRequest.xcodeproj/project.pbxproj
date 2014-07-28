@@ -18,6 +18,7 @@
 		F179C4B419822F2F004CABDA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F179C49319822F2F004CABDA /* Cocoa.framework */; };
 		F179C4BC19822F2F004CABDA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F179C4BA19822F2F004CABDA /* InfoPlist.strings */; };
 		F179C4BE19822F2F004CABDA /* iPullRequestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F179C4BD19822F2F004CABDA /* iPullRequestTests.m */; };
+		F179C4C819862752004CABDA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F179C4C719862752004CABDA /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		F179C4B919822F2F004CABDA /* iPullRequestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iPullRequestTests-Info.plist"; sourceTree = "<group>"; };
 		F179C4BB19822F2F004CABDA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F179C4BD19822F2F004CABDA /* iPullRequestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPullRequestTests.m; sourceTree = "<group>"; };
+		F179C4C719862752004CABDA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		F179C48719822F2F004CABDA = {
 			isa = PBXGroup;
 			children = (
+				F179C4C719862752004CABDA /* README.md */,
 				F179C49919822F2F004CABDA /* iPullRequest */,
 				F179C4B719822F2F004CABDA /* iPullRequestTests */,
 				F179C49219822F2F004CABDA /* Frameworks */,
@@ -232,6 +235,7 @@
 			files = (
 				F179C49E19822F2F004CABDA /* InfoPlist.strings in Resources */,
 				F179C4AC19822F2F004CABDA /* Images.xcassets in Resources */,
+				F179C4C819862752004CABDA /* README.md in Resources */,
 				F179C4A419822F2F004CABDA /* Credits.rtf in Resources */,
 				F179C4AA19822F2F004CABDA /* MainMenu.xib in Resources */,
 			);
