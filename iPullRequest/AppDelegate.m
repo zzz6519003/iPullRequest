@@ -36,7 +36,7 @@
 }
 
 - (IBAction)openPR:(id)sender {
-    NSMutableString *prString;
+    NSMutableString *prString = [@"" mutableCopy];
     [prString appendString:self.prURLPrefix];
     [prString appendString:self.accountName.stringValue];
     [prString appendString:@"/Anjuke/merge_requests/new?utf8=%E2%9C%93&merge_request%5Bsource_project_id%5D="];
