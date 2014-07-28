@@ -13,4 +13,6 @@ gitlab提供非常友好的URL，可以用URL指定branch repo提pullrequest.
 - 小豪想直接发个POST请求。
 - Maybe turn it to a status bar app?
 
+## [Download Link](https://github.com/zzz6519003/iPullRequest/releases/download/0.1/iPullRequest.zip)
+
 ###用了之后个人感觉***爽矣***。
